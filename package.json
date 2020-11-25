@@ -1,0 +1,25 @@
+{
+  "name": "employee-directory-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "if-env": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CKalama/Employee-Directory-React.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CKalama/Employee-Directory-React/issues"
+  },
+  "homepage": "https://github.com/CKalama/Employee-Directory-React#readme"
+}
